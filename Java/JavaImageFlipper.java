@@ -19,7 +19,11 @@ class JavaImageFlipper {
 	//main driver
 	public static void main(String[] args) {
 		//local Declarations
-		System.out.println("HelloWorld");
+
+        //call flipAndInvertImage
+
+        //output result
+
 	}
 
 	//flipAndInvertImage will flip the image and invert it
