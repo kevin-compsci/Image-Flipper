@@ -26,7 +26,7 @@ class JavaImageFlipper {
 
 	}
 
-	//flipAndInvertImage will flip the image and invert it
+	//flipAndInvertImage will flip the image and invert it; returns a new matrix
 	public int[][] flipAndInvertImage(int[][] A) {
         //local declarations
         int i = 0, j = A[0].length-1, k = 0;
@@ -48,7 +48,6 @@ class JavaImageFlipper {
             }
             i++; j=A[0].length-1; k=0; //reset iterations
         }
-        
         return B;
     }	
 }
