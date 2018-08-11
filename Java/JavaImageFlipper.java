@@ -1,6 +1,6 @@
 /*
 Kevin Nguyen
-Basic Java program.
+Basic Java program that takes an integer binary matrix in order to flip and invert it.
 
 How to run (linux):
 	1.) open command line and cd into directory folder of where this code is
